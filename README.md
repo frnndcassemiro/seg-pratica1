@@ -3,12 +3,9 @@ Professor: André Grégio
 Aluna: Fernanda Cassemiro Pereira GRR20163078
 
 Execução esperada:
-    python3 arquivo_de_script arquivo_de_entrada
-
-Arquivos de script:
-    T1p1a.py
-    T1p1b.py
-    T1p2.py
+    python3 T1p1a.py AV1.txt
+    python3 T1p1b.py AV2.txt
+    python3 T1p2.py community.rules sid-msg.map
 
 Arquivos de saída:
     T1p1a.txt
