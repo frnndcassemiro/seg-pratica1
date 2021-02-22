@@ -1,0 +1,18 @@
+Linha nao interpretada(fora do padrao):# Copyright 2001-2021 Sourcefire, Inc. All Rights Reserved.
+Linha nao interpretada(fora do padrao):#	
+Linha nao interpretada(fora do padrao):# This file contains rules that were created by Sourcefire, Inc. and other third parties
+Linha nao interpretada(fora do padrao):# (the "GPL Rules") that are distributed under the GNU General Public License (GPL),
+Linha nao interpretada(fora do padrao):# v2. The GPL Rules created by Sourcefire are owned by Sourcefire, Inc., and the GPL
+Linha nao interpretada(fora do padrao):# Rules not created by Sourcefire are owned by their respective owners. Please see
+Linha nao interpretada(fora do padrao):# the AUTHORS file included in the community package for a list of third party owners and their
+Linha nao interpretada(fora do padrao):# respective copyrights.
+Linha nao interpretada(fora do padrao):#
+Linha nao interpretada(fora do padrao):# This file does not contain any Sourcefire VRT Certified Rules; the VRT Certified
+Linha nao interpretada(fora do padrao):# Rules are distributed by Sourcefire separately under the VRT Certified Rules License
+Linha nao interpretada(fora do padrao):# Agreement (v 2.0)
+Linha nao interpretada(fora do padrao):#
+Linha nao interpretada(fora do padrao):#-----------------
+Linha nao interpretada(fora do padrao):# COMMUNITY RULES
+Linha nao interpretada(fora do padrao):#-----------------
+Linha nao interpretada(fora do padrao):
+Linha nao interpretada(fora do padrao):
